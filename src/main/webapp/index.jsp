@@ -25,7 +25,7 @@
             var nam=document.getElementById("name").value;      
             var pinno=document.getElementById("roll").value;
             var i=document.form1.gen;
-            var ad=document.getElementById("add").value;
+            
             var gmail=document.getElementById("mail").value;
             var password=document.getElementById("pass").value;
             var j=document.forms[0].clg;
@@ -58,10 +58,9 @@
                 document.write("HTML,");
             if(m.checked)
                 document.write("CSS");
-            document.write("<br><br>");
-            document.write("Address: "+ad);
+            
             document.write("<br><br><br><br><br>");
-            document.write("Registration form by-20MH1A05A6");
+            document.write("Registration form by-20MH1A05A6,20MH1A0577");
             
         }
     </script>
@@ -113,10 +112,6 @@
                     <option value="acet">acet</option>
                     <option value="aec">aec</option>
                 </select></td>
-            </tr>
-            <tr>
-                <td><label for="add">Address:</label></td>
-                <td><textarea id="add" cols="20" rows="3"></textarea></td>
             </tr>
             <tr>
                 <td><input type="reset"></td>
