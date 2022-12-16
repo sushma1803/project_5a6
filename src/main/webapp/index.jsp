@@ -61,7 +61,7 @@
             document.write("<br><br>");
             document.write("Address: "+ad);
             document.write("<br><br><br><br><br>");
-            document.write("Registration form by-20MH1A05A6,20MH1A0577");
+            document.write("Registration form by-20MH1A05A6");
             
         }
     </script>
